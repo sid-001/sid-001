@@ -1,9 +1,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sid-001" alt="sid-001" />
 </p>
- ## नमस्ते 🙏🏻
 
-<h3>Why, hello there.</h3>
+## नमस्ते 🙏🏻
 
 Here's my `Manifest.toml`:
 
