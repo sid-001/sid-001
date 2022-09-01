@@ -1,15 +1,38 @@
-![Siddhartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sid-001&show_icons=true&theme=tokyonight)  
-<!--
-**sid-001/sid-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sid-001" alt="sid-001" />
+</p>
 
-Here are some ideas to get you started:
+<h3>Why, hello there.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's my `Manifest.toml`:
+
+```toml
+[personal]
+name = 'Siddhartha Gaur'
+city = 'Lucknow, India'
+email = 'gaursiddhartha4 "at" gmail.com'
+
+[bio]
+categories = [
+  'generalist',
+]
+interests = [
+  'Object-Oreanted-programming',
+  'linux',
+  'open-source',
+  'coffee',
+]
+programming-languages = [
+  'c/cpp',
+  'python',
+  'java/javascript',
+]
+```
+
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sid-001&show_icons=true" alt="sid-001" /> 
+
+</p>
+<p align="left"> </p>
