@@ -27,12 +27,11 @@ programming-languages = [
   'python',
   'java/javascript',
 ]
+Databases = [
+  'MongoDB',
+  'SQL Server',
+  'MySQL',
+  'PostgreSQL',
+  'OracleDB',
+]
 ```
-
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sid-001&show_icons=true" alt="sid-001" /> 
-
-</p>
-<p align="left"> </p>
