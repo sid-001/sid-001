@@ -27,7 +27,7 @@ interests = [
 technologies = [
   'c/cpp',
   'python/react',
-  Django/Flask,
+  'django/flask',
   'java/javascript',
 ]
 
