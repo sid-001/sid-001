@@ -16,18 +16,22 @@ email = 'gaursiddhartha4 "at" gmail.com'
 categories = [
   'generalist',
 ]
+
 interests = [
   'Object-Oreanted-programming',
   'linux',
   'open-source',
   'coffee',
 ]
-programming-languages = [
+
+technologies & languages = [
   'c/cpp',
-  'python',
+  'python/react',
+  Django/Flask
   'java/javascript',
 ]
-Databases = [
+
+databases = [
   'MongoDB',
   'SQL Server',
   'MySQL',
