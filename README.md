@@ -24,10 +24,10 @@ interests = [
   'coffee',
 ]
 
-technologies & languages = [
+technologies = [
   'c/cpp',
   'python/react',
-  Django/Flask
+  Django/Flask,
   'java/javascript',
 ]
 
