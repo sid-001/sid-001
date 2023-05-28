@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/kratos555_" target="blank"><img src="https://img.shields.io/twitter/follow/kratos555_?logo=twitter&style=for-the-badge" alt="kratos555_" /></a> </p>
 
-- 🔭 I’m currently working on [Darts](https://github.com/sid-001/Darts)
+- 🔭 I’m currently working on **[Darts](https://github.com/sid-001/Darts)**
 
 - 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Django, REST framework & Databases**
 
-- 📫 How to reach me **[email@mine](mailto:gaursiddhartha4@gmail.com)**
+- 📫 How to reach me **[My Email](mailto:gaursiddhartha4@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
