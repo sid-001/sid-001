@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Django, REST framework & Databases**
 
-- 📫 How to reach me **gaursiddhartha4@gmail.com**
+- 📫 How to reach me **[email@mine](mailto:gaursiddhartha4@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
