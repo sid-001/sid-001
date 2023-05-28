@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Siddhartha Gaur</h1>
 <h3 align="center">Web Application Perfectionist</h3>
-<img align="right" alt="Coding" width="400" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sid-001/sid-001/main/static/YCZM%20(1).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-001&label=Profile%20views&color=0e75b6&style=plastic" alt="sid-001" /> </p>
 
